@@ -26,7 +26,7 @@ def ret_openai_response(prompt):
             max_tokens = 350,
             temperature=0.3
         )
-     return translate_response
+    return translate_response
 
 if prompt!="":
     response = ""
