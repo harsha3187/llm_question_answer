@@ -1,0 +1,14 @@
+streamlit
+audio-recorder-streamlit
+openai==0.28
+python-dotenv
+langchain==0.1.9
+transformers==4.38.1
+torch==2.2.1
+torchdata==0.7.1
+nest_asyncio
+peft==0.8.2
+langchain-community==0.0.24
+html2text
+sentence_transformers==2.4.0
+faiss-cpu
